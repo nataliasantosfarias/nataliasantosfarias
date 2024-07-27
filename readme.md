@@ -1,4 +1,4 @@
-                                                       Olá! Eu sou a Natália Farias Santos 👋 
+                                             Olá! Eu sou a Natália Farias Santos 👋 
 Bem vindo ao meu GitHub 👩‍🏫 
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
